@@ -1,2 +1,2 @@
 Está é uma linha de texto
-Está é uma segunda linha de texto
+Linha escrita na main
